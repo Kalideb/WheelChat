@@ -1,2 +1,2 @@
 # WheelChat
-A *"wheelware"* chat/messenger application.
+Toy chat/messenger application (client and server).
